@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200">
+  <!-- Book icon -->
+  <path d="M100,50 L100,150 L370,150 L370,50 L100,50 Z" fill="none" stroke="#2c3e50" stroke-width="6"/>
+  <path d="M100,50 C120,40 160,40 180,50 L180,150 C160,140 120,140 100,150 Z" fill="#3498db" stroke="#2c3e50" stroke-width="3"/>
+  <path d="M180,50 C200,40 240,40 260,50 L260,150 C240,140 200,140 180,150 Z" fill="#e74c3c" stroke="#2c3e50" stroke-width="3"/>
+  <path d="M260,50 C280,40 320,40 340,50 L340,150 C320,140 280,140 260,150 Z" fill="#2ecc71" stroke="#2c3e50" stroke-width="3"/>
+  
+  <!-- Bookmark -->
+  <path d="M350,60 L350,100 L360,90 L370,100 L370,60 Z" fill="#f39c12" stroke="#2c3e50" stroke-width="2"/>
+  
+  <!-- Text -->
+  <text x="110" y="180" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#2c3e50">BOOKMAKERS 138</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="90" cy="50" r="5" fill="#2c3e50"/>
+  <circle cx="90" cy="150" r="5" fill="#2c3e50"/>
+  <circle cx="380" cy="50" r="5" fill="#2c3e50"/>
+  <circle cx="380" cy="150" r="5" fill="#2c3e50"/>
+</svg>
